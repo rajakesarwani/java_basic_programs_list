@@ -13,7 +13,7 @@ public class App
 
     int [] result  = twosum(nums,target);
 
-    System.out.println("Result==>>"+ Arrays.toString(result));
+    // System.out.println("Result==>>"+ Arrays.toString(result));
 
     }
 
