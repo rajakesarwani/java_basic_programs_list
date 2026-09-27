@@ -1,1 +1,9 @@
+com\example\entity\User.class
+com\example\controller\AuthController.class
+com\example\repository\UserRepository.class
+com\example\LoginController.class
+com\example\HelloController.class
 com\example\App.class
+com\example\dto\RegisterRequest.class
+com\example\config\SecurityConfig.class
+com\example\service\AuthService.class

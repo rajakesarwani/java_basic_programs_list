@@ -1,1 +1,9 @@
 C:\Users\rajak\MyFirstProject\src\main\java\com\example\App.java
+C:\Users\rajak\MyFirstProject\src\main\java\com\example\config\SecurityConfig.java
+C:\Users\rajak\MyFirstProject\src\main\java\com\example\controller\AuthController.java
+C:\Users\rajak\MyFirstProject\src\main\java\com\example\dto\RegisterRequest.java
+C:\Users\rajak\MyFirstProject\src\main\java\com\example\entity\User.java
+C:\Users\rajak\MyFirstProject\src\main\java\com\example\HelloController.java
+C:\Users\rajak\MyFirstProject\src\main\java\com\example\LoginController.java
+C:\Users\rajak\MyFirstProject\src\main\java\com\example\repository\UserRepository.java
+C:\Users\rajak\MyFirstProject\src\main\java\com\example\service\AuthService.java
